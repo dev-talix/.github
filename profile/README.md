@@ -14,7 +14,7 @@ Talix is a small software company in Toronto. We make a billing app for agencies
 
 | App | What it does | Runs on | Get it |
 | --- | --- | --- | --- |
-| **[Talix Billing](https://billing.talix.app)** | Time tracking and invoicing for agencies and studios. Clients, timers, invoices and payments in one place, plus a Mac timer app. | Web, macOS | [Open](https://billing.talix.app) |
+| **[Talix Billing](https://billing.talix.app)** | Time tracking and invoicing for agencies and studios. Clients, timers, invoices and payments in one place, plus the Talix Time desktop timer. The Windows build isn't code-signed yet, so SmartScreen warns on install. | Web, macOS, Windows | [Open](https://billing.talix.app) |
 | **[Stubs](https://github.com/dev-talix/stubs)** | Paste a `.env` and get a link that opens once. Values are encrypted before they leave your machine, and agents can pull them into `.env.local` without reading them. | Web, CLI (Node) | [Website](https://stubs.talix.app) · [npm](https://www.npmjs.com/package/@talix/stubs) |
 | **[Kleio](https://github.com/dev-talix/kleio)** | Records your mic and the call on separate tracks, then transcribes on your Mac. Rename speakers, search, take notes, export. No meeting bot. | macOS 15+, Apple silicon | [Website](https://kleio.talix.app) · [Download](https://github.com/dev-talix/kleio/releases/latest/download/Kleio.dmg) |
 | **[Flo](https://github.com/dev-talix/flo)** | Hold a key, talk, let go. Flo transcribes on-device and pastes the text into whatever app has focus. | macOS 14+, Apple silicon | [Website](https://flo.talix.app) · [Download](https://github.com/dev-talix/flo/releases/latest) |
