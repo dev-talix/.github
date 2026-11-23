@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="talix-banner.png" alt="Talix. Apps for small businesses, made in Toronto. OpenTab, Stubs, Kleio, Flo, Conductor and Grimoire." width="1000">
+  <img src="talix-banner-2026-11.png" alt="Talix. Apps for small businesses, made in Toronto. OpenTab, Stubs, Kleio, Flo, Conductor and Grimoire." width="1000">
 </p>
 
 <p align="center">
